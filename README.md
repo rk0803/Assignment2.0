@@ -4,4 +4,5 @@ Group Members: Ritambhra Korpal, Chaitanya Vanapamala, Pralay Ramteke, Pallavi.
 README.pdf contains the description, derivation and explanation of back propagation.
 futher_details.pdf contains the screen shots of the neural net  built in the excel sheet.
 sec_nn.xlsx contains the neural net, two more sheets inside that contain the trend of variation in error vs. learning rate.
-https://github.com/rk0803/Assignment2.0/blob/c6e8fd33efa3b9c3796aa973ff9d26a1b048ac65/nn_screenshot_0.5.jpg?raw=true
+![image](https://user-images.githubusercontent.com/82941475/118150593-5a384880-b430-11eb-801d-a55d83e8a3df.png)
+
